@@ -1,4 +1,4 @@
-package com.training.rest.resourceAllocator;
+package com.training.rest.resourceAllocator.component;
 
 import java.util.ArrayList;
 import java.util.HashMap;

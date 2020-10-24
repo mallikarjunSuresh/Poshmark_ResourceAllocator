@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.training.rest.resourceAllocator.Optmizer;
-import com.training.rest.resourceAllocator.Result;
+import com.training.rest.resourceAllocator.component.Optmizer;
+import com.training.rest.resourceAllocator.component.Result;
 
 @RestController
 public class CalcCostController {
