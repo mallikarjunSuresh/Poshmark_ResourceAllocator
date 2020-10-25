@@ -1,0 +1,11 @@
+[
+    {"total_cpu":79,
+    "server":{"2xlarge":3,"8xlarge":4,"large":3},
+    "total_price":164.616,
+    "region":"us-east"},
+
+    {"total_cpu":79,
+        "server":{"2xlarge":1,"8xlarge":4,"large":1,"xlarge":1,"4xlarge":1},
+        "total_price":172.176,
+        "region":"us-west"}
+]

@@ -1,0 +1,1 @@
+[{"total_cpu":33,"server":{"large":1,"8xlarge":2},"total_price":69.0,"region":"us-east"},{"total_cpu":30,"server":{"2xlarge":1,"8xlarge":1,"large":2,"4xlarge":1},"total_price":69.0,"region":"us-west"}]
