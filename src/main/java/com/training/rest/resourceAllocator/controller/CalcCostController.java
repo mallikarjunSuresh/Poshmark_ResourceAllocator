@@ -21,7 +21,7 @@ public class CalcCostController {
 	public ArrayList<HashMap<String,Object>> getCost(@PathVariable int hours, @PathVariable int cpus 
 			,@PathVariable float price) 
 	{		
-		
+	
 		return optmizerFacade.startOptmize(cpus,price,hours);
 	}	
 	
